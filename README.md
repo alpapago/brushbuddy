@@ -16,27 +16,27 @@
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sy.png" alt="백승윤 프로필" width=120 height=120 />
+          <img src="assets/sy.png" alt="백승윤 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/hw.png" alt="용희원 프로필" width=120 height=120 />
+          <img src="assets/hw.png" alt="용희원	 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sh.png" alt="이상협 프로필" width=120 height=120 />
+          <img src="assets/sh.png" alt="이상협 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sa.png" alt="이신애 프로필" width=120 height=120 />
+          <img src="assets/sa.png" alt="이신애 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sm.png" alt="전소민 프로필" width=120 height=120 />
+          <img src="assets/sm.png" alt="전소민 프로필" width=120 height=120 />
         </a>
       </td>
     </tr>
@@ -47,27 +47,27 @@
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/">
           백승윤
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/">
           용희원
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/">
           이상협
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/alpapago">
+        <a href="https://github.com/">
           이신애
         </a>
       </td>
       <td align="center">
-        <a href="">
+        <a href="https://github.com/">
           전소민
         </a>
       </td>
@@ -82,6 +82,8 @@
 ## 개요
 
 ## Usage
+
+![Alt text](image.png)
 
 ### 개발환경
 
@@ -162,4 +164,14 @@
 
 ## 주요기능 및 화면
 
-#### 로그인 & 로그아웃
+<img src="assets/login.jpg" alt="" />
+<img src="assets/AIPrompt.jpg" alt=""   />
+<img src="assets/palette.jpg" alt=""   />
+<img src="assets/communityDetail.jpg" alt=""   />
+<img src="assets/draftDetail.jpg
+" alt=""   />
+<img src="assets/draftmake.jpg" alt=""   />
+<img src="assets/draftmake.jpg" alt=""   />
+<img src="assets/machinemake.jpg" alt=""   />
+<img src="assets/makeAI.jpg" alt=""   />
+<img src="assets/paletteMake.jpg" alt=""   />
