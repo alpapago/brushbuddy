@@ -11,7 +11,7 @@
     <tr>
         <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/yj.png" alt="김영진 프로필" width=120 height=120 />
+          <img src="assets/yj.png" alt="김영진 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
