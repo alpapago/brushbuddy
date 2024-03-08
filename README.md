@@ -11,32 +11,32 @@
     <tr>
         <td align="center">
         <a href="">
-          <img src="" alt="김영진 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/assets/yj.png" alt="김영진 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="백승윤 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/assets/sy.png" alt="백승윤 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="용희원 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/assets/hw.png" alt="용희원 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="이상협 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/assets/sh.png" alt="이상협 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="이신애 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/assets/sa.png" alt="이신애 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="전소민 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/assets/sm.png" alt="전소민 프로필" width=120 height=120 />
         </a>
       </td>
     </tr>
@@ -47,28 +47,28 @@
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/rlawldud335">
+        <a href="">
           백승윤
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/variety82/">
+        <a href="">
           용희원
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/TannyKim">
+        <a href="">
           이상협
         </a>
       </td>
       <td align="center">
-        <a href="https://github.com/bottler3123">
+        <a href="https://github.com/alpapago">
           이신애
         </a>
       </td>
-        <td align="center">
-        <a href="https://github.com/sujunghwang">
-          
+      <td align="center">
+        <a href="">
+          전소민
         </a>
       </td>
     </tr>
