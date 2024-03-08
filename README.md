@@ -11,32 +11,32 @@
     <tr>
         <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/assets/yj.png" alt="김영진 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/yj.png" alt="김영진 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/assets/sy.png" alt="백승윤 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sy.png" alt="백승윤 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/assets/hw.png" alt="용희원 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/hw.png" alt="용희원 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/assets/sh.png" alt="이상협 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sh.png" alt="이상협 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/assets/sa.png" alt="이신애 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sa.png" alt="이신애 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="https://github.com/alpapago/brushbuddy/assets/sm.png" alt="전소민 프로필" width=120 height=120 />
+          <img src="https://github.com/alpapago/brushbuddy/raw/main/assets/sm.png" alt="전소민 프로필" width=120 height=120 />
         </a>
       </td>
     </tr>
