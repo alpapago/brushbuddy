@@ -1,0 +1,8 @@
+version: "3.8"
+
+services:
+  server:
+    image: summa1234/brushbuddy:latest
+    container_name: FastAPI
+    ports:
+      - 3000:8000
