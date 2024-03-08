@@ -11,32 +11,32 @@
     <tr>
         <td align="center">
         <a href="">
-          <img src="" alt="임두현 프로필" width=120 height=120 />
+          <img src="" alt="김영진 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="김지영 프로필" width=120 height=120 />
+          <img src="" alt="백승윤 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="김창현 프로필" width=120 height=120 />
+          <img src="" alt="용희원 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="김태균 프로필" width=120 height=120 />
+          <img src="" alt="이상협 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="박병우 프로필" width=120 height=120 />
+          <img src="" alt="이신애 프로필" width=120 height=120 />
         </a>
       </td>
       <td align="center">
         <a href="">
-          <img src="" alt="황수정 프로필" width=120 height=120 />
+          <img src="" alt="전소민 프로필" width=120 height=120 />
         </a>
       </td>
     </tr>

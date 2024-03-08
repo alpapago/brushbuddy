@@ -17,7 +17,7 @@ class AiImage(BaseModel):
 
         # 환경변수 불러오기
         # OPEN_AI_KEY = os.getenv("OPEN_AI_KEY")
-        client = OpenAI(api_key="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")
+        client = OpenAI(api_key)
 
         response = client.images.generate(
             model="dall-e-3",
